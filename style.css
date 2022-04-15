@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Palatino Linotype"; 
+  font-weight: normal; 
+  font-style: normal; 
+  src: url('../fonts/PalatinoLinotype/Palatino-Linotype-Regular.eot'); /* IE9+ Compat Modes */
+  src: local('Palatino Linotype'),
+  url('../fonts/PalatinoLinotype/Palatino-Linotype-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("../fonts/PalatinoLinotype/Palatino-Linotype-Regular.otf") format("opentype"), 
+  url("../fonts/PalatinoLinotype/Palatino-Linotype-Regular.woff") format("woff"), 
+  url("../fonts/PalatinoLinotype/Palatino-Linotype-Regular.ttf") format("truetype");/* format('ttf') */
+  font-display: swap; 
+}
